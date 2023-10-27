@@ -62,3 +62,5 @@ To enhance the model further, consider the following improvements:
 - Address misclassification by comparing classes and considering a binary classification model.
   
 Thank you for your interest in the Soybean Seed CNN Classification Model project. For more details and to access the code and dataset, please refer to the project repository.
+
+Dataset from: https://www.kaggle.com/datasets/warcoder/soyabean-seeds
