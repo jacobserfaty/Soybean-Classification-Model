@@ -24,6 +24,8 @@ The dataset consists of 5513 images of soybean seeds with the following characte
     - Skin-damaged
     - Spotted
 
+![class_dist](https://github.com/jacobserfaty/Soybean-Classification-Model/blob/main/images/class_dist.png)
+
 ### Modeling
 For this project, all models used are Convolutional Neural Networks (CNNs). 
 
@@ -32,12 +34,16 @@ The base model layout consists of:
 - 3 max-pooling layers.
 - 1 hidden layer.
 
+![confusion1](https://github.com/jacobserfaty/Soybean-Classification-Model/blob/main/images/confusion1.png)
+
 The final model layout includes:
 - 3 2D-convolutional layers.
 - 3 max-pooling layers.
 - 3 hidden layers.
 - 2 dropout layers.
 - Bias, padding, and L2 regularization.
+
+![confusion4](https://github.com/jacobserfaty/Soybean-Classification-Model/blob/main/images/confusion4.png)
 
 ### Business Recommendations
 Based on our findings, here are the key business recommendations:
@@ -46,6 +52,8 @@ Based on our findings, here are the key business recommendations:
 - Integrate this model into a seed-sorting mechanism that can classify each seed in real-time.
 - The model would benefit from higher-quality color images.
 - Ensure that the dataset is free from mislabeled data.
+
+![seeds](https://github.com/jacobserfaty/Soybean-Classification-Model/blob/main/images/seeds.png)
 
 ### Model Improvements
 To enhance the model further, consider the following improvements:
