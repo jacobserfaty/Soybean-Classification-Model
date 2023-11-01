@@ -3,7 +3,7 @@
 ### Introduction
 "Good seed is the foundation of good crops." - Norman Borlaug
 
-Welcome to the Soybean Seed CNN Classification Model project! This project focuses on improving the efficiency of agricultural tech businesses by enhancing the quality of soybean seeds. High-quality soybean seeds have the potential to result in increased crop yield, resist common soybean diseases and pests, and possess desirable genetic traits like tolerance to specific environmental conditions. This README provides an overview of the project, its goals, data, modeling, business recommendations, and potential model improvements.
+Welcome to the Soybean Seed CNN Classification Model project! This project focuses on improving the efficiency of agricultural tech businesses by enhancing the quality of soybean seeds. High-quality soybean seeds have the potential to result in increased crop yield, resist common soybean diseases and pests, and possess desirable genetic traits like tolerance to specific environmental conditions.
 
 ### Business Understanding
 Our goal is to enhance agricultural tech businesses by improving the quality of the soybean seeds they use. To achieve this, we aim to:
